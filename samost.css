@@ -1,0 +1,30 @@
+body 
+{
+    background-color: bisque; 
+    font-family: 'Times New Roman', Times, serif;
+} 
+#header 
+{
+    background-color: khaki; 
+    text-align: center; 
+    margin: 10px; 
+    font-style: italic;
+} 
+#main 
+{
+    background-color: khaki; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    padding-left: 15px; 
+    padding-right: 0px; 
+    margin: 10px;
+}
+#footer 
+{
+    background-color: chocolate; 
+    text-align: center; 
+    color: antiquewhite; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    margin: 10px;
+}
